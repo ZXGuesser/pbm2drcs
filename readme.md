@@ -1,5 +1,5 @@
 # pbm2drcs
-A python script to convert ascii pbm files to mode 1 teletext DRCS PTUs.
+A python script to convert ascii pbm files to mode 0 teletext DRCS PTUs.
 
 ## Invocation
 `pbm2drcs.py -i <inputfile> -o <outputfile> [-r]`
